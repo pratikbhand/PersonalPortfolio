@@ -1,0 +1,63 @@
+body{
+    /* background-image: url(D:\web.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ; */
+    background-color: cadetblue;
+    
+}
+
+
+
+nav{
+    font: bold;
+    font-size: larger;
+    
+    
+}
+#navitem{
+    font: bold;
+    font-size: larger;
+}
+
+
+
+
+
+
+
+
+/* .third button {
+
+    font-size: 30px;
+    margin: 25px;
+    color: black;
+    background-color: lightblue;
+    padding: 0 10px 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+
+
+} */
+
+/* .third button:hover {
+    background-color: rgb(226, 113, 132);
+} */
+
+/* h2 {
+    color: white;
+    margin-left: 10px;
+} */
+
+/* .fourth {
+    color: black;
+    background-color: lightblue;
+    font-size: 27px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0 10px 0;
+    padding: 0 10px 0;
+    font-weight: 500;
+} */
+
+/* .fourth:hover {
+    background-color: rgb(226, 113, 132);
+} */
